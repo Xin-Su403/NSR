@@ -1,5 +1,5 @@
 # NSR
-This file provides a description of the columns in CutoffWall.csv and Dam.csv as part of "Shoreline protection strategies cause trade-offs in coastal groundwater hazards with sea-level rise" by Su et al. submitted to Water Resources Research.
+This file provides a description of the columns in CutoffWall.csv and Dam.csv as part of "Shoreline barriers may amplify coastal groundwater hazards with sea-level rise" by Su et al. submitted to Nature Scientific Report.
 
 Model parameters
 =====================
